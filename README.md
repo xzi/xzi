@@ -1,2 +1,2 @@
 <h3 align="center"><b>xzi</h3> 
-<center><b>[website](https://blueberry.moe) ~ [discord](https://discord.dog/sayaka) ~  [flipd](https://flipd.gg/sayaka)
+<p align="center"><b><a href="https://blueberry.moe" target="_blank">website</a> ~ <a href="https://discord.dog/sayaka" target="_blank">discord</a> ~ <a href="https://flipd.gg/sayaka" target="_blank">flipd</a>

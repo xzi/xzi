@@ -1,2 +1,2 @@
 xzi  
-[website](blueberry.moe) ~ [discord](discord.dog/sayaka) ~  [flipd](flipd.gg/sayaka)
+[website](https://blueberry.moe) ~ [discord](https://discord.dog/sayaka) ~  [flipd](https://flipd.gg/sayaka)

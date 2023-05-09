@@ -1,2 +1,3 @@
 <h3 align="center"><b>xzi</h3> 
-<p align="center"><b><a href="https://blueberry.moe" target="_blank">website</a> ~ <a href="https://discord.dog/sayaka" target="_blank">discord</a> ~ <a href="https://flipd.gg/sayaka" target="_blank">flipd</a>
+<p align="center">crazy goddess</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AqPmyBluSU4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

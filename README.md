@@ -11,3 +11,4 @@ Languages I want to learn:
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)  
 
 Badges provided by [Simple Badges](https://badges.pages.dev/)
+Profile picture is Stone from [Ramshackle](https://www.youtube.com/watch?v=i1r2QqSpJ5o). I do not drink personally 

@@ -1,6 +1,6 @@
 # Favorite FOSS Software
 
-This is a list of FOSS software that I use and personally recommend. The use cases for all of these vary as I do a lot of things on my machine. I will try to give a short explanation of what everything does however. Everything on this list will work on a semi-sane Arch Linux. 
+This is a list of FOSS software that I use and personally recommend. The use cases for all of these vary as I do a lot of things on my machine. I will try to give a short explanation of what everything does however. Everything on this list will work on a semi-sane Arch Linux. This list will be expanded with time.
 
 ## Prism Launcher
 [Website](https://prismlauncher.org/)  
@@ -19,3 +19,9 @@ mpv is an incredibly optimized video player. To quote their website, "[mpv] supp
 [Repo](https://github.com/mumble-voip/mumble)  
 
 Mumble is a customizable and self-hosted voice chat software that allows users to run their own private voice chats for their friends or group use. My EVE Online corp personally uses Mumble for our voice coms and I have fallen in love with the software ever since. While it does lack things such as screenshare, that personally is not a deal breaker for me and I recommend it regardless.
+
+## cobalt.tools
+[Website](https://cobalt.tools/)
+[Repo](https://github.com/wukko/cobalt)
+
+cobalt.tools is an online media downloader that supports a bunch of websites. While I prefer yt-dlp over it, cobalt is still what I recommend to most people who are trying to download videos.

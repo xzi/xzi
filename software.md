@@ -21,7 +21,7 @@ mpv is an incredibly optimized video player. To quote their website, "[mpv] supp
 Mumble is a customizable and self-hosted voice chat software that allows users to run their own private voice chats for their friends or group use. My EVE Online corp personally uses Mumble for our voice coms and I have fallen in love with the software ever since. While it does lack things such as screenshare, that personally is not a deal breaker for me and I recommend it regardless.
 
 ## cobalt.tools
-[Website](https://cobalt.tools/)
+[Website](https://cobalt.tools/)  
 [Repo](https://github.com/wukko/cobalt)
 
 cobalt.tools is an online media downloader that supports a bunch of websites. While I prefer yt-dlp over it, cobalt is still what I recommend to most people who are trying to download videos.

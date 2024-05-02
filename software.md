@@ -22,6 +22,23 @@ Mumble is a customizable and self-hosted voice chat software that allows users t
 
 ## cobalt.tools
 [Website](https://cobalt.tools/)  
-[Repo](https://github.com/wukko/cobalt)
+[Repo](https://github.com/wukko/cobalt)  
 
-cobalt.tools is an online media downloader that supports a bunch of websites. While I prefer yt-dlp over it, cobalt is still what I recommend to most people who are trying to download videos.
+cobalt.tools is an online media downloader that supports a bunch of websites and has a pretty good privacy policy. While I prefer yt-dlp over it, cobalt is still what I recommend to most people who are trying to download videos.
+
+## Catnip
+[Repo](https://github.com/iinsertNameHere/catnip)  
+
+Catnip is a fetch program written in Nim. Not much to say here we all know what a fetch program is. If you don't then you clearly haven't been around the Linux ricing community that much. You should stop by. We don't bite :).
+
+## OBS Studio
+[Website](https://obsproject.com/)  
+[Repo](https://github.com/obsproject/obs-studio)  
+
+OBS Studio is the best free video recording software. Period. Nothing even touches OBS in terms of quality. I have never had an issue with it. If you need an extremely flexible, free recording software for whatever you are doing, use OBS.
+
+## Kleopatra
+[Website](https://apps.kde.org/kleopatra/)  
+[Repo](https://invent.kde.org/pim/kleopatra)
+
+Kleopatra is a front end for dealing with PGP keys and various forms of encryption related to that. It's a KDE app and generally works pretty well from my experience. I don't use PGP too much, but when I do I always use Kleopatra to do it since it makes the process a lot less tedious. 

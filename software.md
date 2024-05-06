@@ -52,7 +52,7 @@ Kleopatra is a front end for dealing with PGP keys and various forms of encrypti
 
 ## Doukutsu-rs
 
-[Website](https://doukutsu-rs.github.io/)
+[Website](https://doukutsu-rs.github.io/)  
 [Repo](https://github.com/doukutsu-rs/doukutsu-rs)
 
 Doukutsu-rs is "a fully playable re-implementation of the Cave Story (Doukutsu Monogatari) engine written in Rust." It fixes a lot of bugs with the base game, adds some content/features from the non-PC ports of the game, and adds a ton of customization options. It works perfectly with the freeware port of Cave Story and I highly recommend it as a way to experience the game if you haven't played it yet (seriously, [play Cave Story](https://www.cavestory.org/download/cave-story.php)).

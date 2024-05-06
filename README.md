@@ -8,7 +8,7 @@ Languages I "know":
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)  
 
 Languages I want to learn:  
-![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square)  
+Content with what I know (for now)
 
 Badges provided by [Simple Badges](https://badges.pages.dev/)  
 Profile picture is Stone from [Ramshackle](https://www.youtube.com/watch?v=i1r2QqSpJ5o). I do not drink personally.

@@ -5,12 +5,12 @@ This is just a public to-do list for a bunch of miscellaneous things I am planni
 ## In Progress
 
 - [ ] Website rewrite ([Repo](https://github.com/xzi/website/tree/dev))
-- [ ] Make a list of some good music ([music.md](music.md))
+- [ ] Guide to help people start writing ([Repo](https://github.com/xzi/startwriting))
 
 ## Planned
 
-- [ ] Create a complete list of all the atrocities commited by KAIST (I'm never going to college am I) (Repo TBD)
 - [ ] Create a general dotfiles repo (Repo TBD)
+- [ ] Make a non-meme Catppuccin port (Repo TBD)
 - [ ] Make something useful for someone other than myself
 
 ## Completed

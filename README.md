@@ -8,6 +8,6 @@ Languages I "know":
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square) ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)  
 
 Badges provided by [Simple Badges](https://badges.pages.dev/)  
-Profile picture is a slight [edit](https://soundcloud.com/jinwoo-5/asu-no-yozora-shoukaihan) of the cover art for [Asu no Yozora Shoukaihan (Yuaru version)](https://www.youtube.com/watch?v=i1r2QqSpJ5o)
+My profile picture is from chapter 10 of [I Love Amy/Naneun Amy-reul Saranghae](https://anilist.co/manga/155471/Naneun-Amyreul-Saranghae/)
 
 [Favorite software](software.md) | [To-do list](todo.md)

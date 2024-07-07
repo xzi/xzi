@@ -4,13 +4,13 @@ This is just a public to-do list for a bunch of miscellaneous things I am planni
 
 ## In Progress
 
-- [ ] Website rewrite ([Repo](https://github.com/xzi/website/tree/dev))
 - [ ] Guide to help people start writing ([Repo](https://github.com/xzi/startwriting))
 - [ ] Make an mdBook template for future endeavors (Repo TBD)
 
 ## Planned
 
 - [ ] Create a general dotfiles repo (Repo TBD)
+- [ ] Website rewrite ([Repo](https://github.com/xzi/website))
 - [ ] Make a non-meme Catppuccin port (Repo TBD)
 - [ ] Make something useful for someone other than myself
 - [ ] Full grammar/spell check on all my repos

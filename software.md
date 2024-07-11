@@ -30,12 +30,6 @@ Mumble is a customizable and self-hosted voice chat software that allows users t
 
 cobalt.tools is an online media downloader that supports a bunch of websites and has a pretty good privacy policy. While I prefer yt-dlp over it, cobalt is still what I recommend to most people who are trying to download videos.
 
-## Catnip
-
-[Repo](https://github.com/iinsertNameHere/catnip)  
-
-Catnip is a fetch program written in Nim. Not much to say here we all know what a fetch program is. If you don't then you clearly haven't been around the Linux ricing community that much. You should stop by. We don't bite :).
-
 ## OBS Studio
 
 [Website](https://obsproject.com/)  

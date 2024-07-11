@@ -4,15 +4,15 @@ This is just a public to-do list for a bunch of miscellaneous things I am planni
 
 ## In Progress
 
-- [ ] Guide to help people start writing ([Repo](https://github.com/xzi/startwriting))
-- [ ] Make an mdBook template for future endeavors (Repo TBD)
+- [ ] Make a guide to help people start writing ([Repo](https://github.com/xzi/startwriting))
 
 ## Planned
 
-- [ ] Create a general dotfiles repo (Repo TBD)
 - [ ] Website rewrite ([Repo](https://github.com/xzi/website))
-- [ ] Make a non-meme Catppuccin port (Repo TBD)
-- [ ] Make something useful for someone other than myself
+- [ ] Create a general dotfiles repo
+- [ ] Make a guide for Cave Story
+- [ ] Make a non-meme Catppuccin port
+- [ ] Convert my to-do list into a better format (Kanban board maybe?)
 - [ ] Full grammar/spell check on all my repos
 
 ## Completed

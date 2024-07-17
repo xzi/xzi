@@ -4,13 +4,13 @@ This is just a public to-do list for a bunch of miscellaneous things I am planni
 
 ## In Progress
 
-- [ ] Make a guide to help people start writing ([Repo](https://github.com/xzi/startwriting))
+- [ ] Make a guide to help people start writing ([Repo](https://github.com/xzi/startwriting), main project)
+- [ ] Make a guide for Cave Story ([Repo](https://github.com/xzi/cavestory-guide), side project)
 
 ## Planned
 
 - [ ] Website rewrite ([Repo](https://github.com/xzi/website))
 - [ ] Create a general dotfiles repo
-- [ ] Make a guide for Cave Story
 - [ ] Make a non-meme Catppuccin port
 - [ ] Convert my to-do list into a better format (Kanban board maybe?)
 - [ ] Full grammar/spell check on all my repos

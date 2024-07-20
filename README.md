@@ -18,5 +18,4 @@ My profile picture is from chapter 10 of [I Love Amy/Naneun Amy-reul Saranghae](
 
 [Favorite software](software.md) | [To-do list](todo.md)  
 
-(roadmap.sh updates on commit)  
 [![roadmap.sh](https://roadmap.sh/card/tall/669beb0e9a21cb3c686f9f05?variant=dark)](https://roadmap.sh/u/lilith)

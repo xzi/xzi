@@ -12,6 +12,7 @@ Languages I "know":
 Languages/tools I want to learn:  
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat-square) ![Node.js Badge](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat-square)  
 ![Tailwind CSS Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=flat-square) ![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff&style=flat-square)  
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat-square)  
 
 Badges provided by [Simple Badges](https://badges.pages.dev/)  
 My profile picture is from chapter 10 of [I Love Amy/Naneun Amy-reul Saranghae](https://anilist.co/manga/155471/Naneun-Amyreul-Saranghae/)

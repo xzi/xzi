@@ -18,5 +18,3 @@ Badges provided by [Simple Badges](https://badges.pages.dev/)
 My profile picture is from chapter 10 of [I Love Amy/Naneun Amy-reul Saranghae](https://anilist.co/manga/155471/Naneun-Amyreul-Saranghae/)
 
 [Favorite software](software.md) | [To-do list](todo.md)  
-
-[![roadmap.sh](https://roadmap.sh/card/tall/669beb0e9a21cb3c686f9f05?variant=dark)](https://roadmap.sh/u/lilith)
